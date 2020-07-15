@@ -1,6 +1,3 @@
-**👨‍👨‍👧‍👧방문자 수 / 👏팔로워 수** <div style="position:absolute; top: calc(50vh - 112.5px); left: calc(50vw - 150px);">
-	    <lottie-player src="./img/paper-airplane.json" background="transparent" style="width: 300px; height: 225px;" speed="1" loop autoplay>
-	    </lottie-player>
 	</div>
    
 <div>
@@ -12,7 +9,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## 🌱 writepro4 : 프론트엔드 개발자
+## 🌱 프론트엔드 개발자
 
 <img src="https://user-images.githubusercontent.com/45548926/87241018-bb327100-c459-11ea-9cd5-ca8f36942d4e.gif" width="250" height="150" />
 
@@ -21,7 +18,6 @@
 ## 💻 Stack
 
 - React.js
-- Android-Studio
 - Php
 - Java
 - Css
